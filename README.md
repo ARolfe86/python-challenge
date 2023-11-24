@@ -2,7 +2,7 @@
 
 ### PyBank 
 
-Analyzes profits and losses from a company's finacial data.
+Analyzes profits and losses from a company's financial data.
 
 
 ### PyPoll
